@@ -1,7 +1,7 @@
 node_modules
 .DS_Store
 tmp/app.db
-db/app.db
 .env
-db/test.db
 .env.test
+db/*.db
+build
